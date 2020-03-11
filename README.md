@@ -1,2 +1,3 @@
 # SI-Estacionamento
-Sistema de gestao de estacionamento
+# NOME: E-STACIONA
+# Projeto de informatização da gestão de entrada, saída e permanência de veículos em estacionamento.
